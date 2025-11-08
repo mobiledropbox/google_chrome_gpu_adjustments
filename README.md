@@ -14,13 +14,13 @@ The GPU Internals page will provide you the overview about the disabled features
 # Taglish tolonges gedli etneb version
 Bes, panoorin mo na lang iyong video sa baba, kapagod mag explain.
 # FYI
-**Enable and disable these features with caution**
-Please make sure to read and understand each features before making adjustments.
+**Enable and disable these features with caution.** Please make sure to read and understand each features before making adjustments.
 # [Landing page](https://github.com/aeronje)
+```
 aeronje
 └──google_chrome_gpu_adjustments/
     ├── README.md
     └── google_chrome_gpu_adjustments.js
-
+```
 You may watch the screenshare [video](https://github.com/aeronje) for more context.
 
